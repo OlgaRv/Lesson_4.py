@@ -8,4 +8,3 @@ for i in range(5):
 
 с = 10
 d = 20
-e = 30
