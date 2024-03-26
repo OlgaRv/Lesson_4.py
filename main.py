@@ -7,4 +7,3 @@ for i in range(5):
     print("результат = ", a + b)
 
 с = 10
-d = 20
