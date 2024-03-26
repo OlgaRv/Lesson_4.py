@@ -6,4 +6,4 @@ for i in range(5):
     a += 1
     print("результат = ", a + b)
 
-с = 10
+
